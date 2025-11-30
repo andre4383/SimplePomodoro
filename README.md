@@ -1,6 +1,6 @@
 <div align="center">
 
-# Simple Pomodoro
+# Simple_Pomodoro
 
 A minimalist focus timer built for productivity and aesthetics.
 
