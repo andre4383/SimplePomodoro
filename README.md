@@ -15,7 +15,7 @@ A minimalist focus timer built for productivity and aesthetics.
 
 ## About
 
-Simple Pomodoro is a web application designed to help you manage your time effectively. Built with modern web technologies, it features a clean interface that minimizes distractions, allowing you to focus on what matters most.
+Simple_Pomodoro is a web application designed to help you manage your time effectively. Built with modern web technologies, it features a clean interface that minimizes distractions, allowing you to focus on what matters most.
 
 ## Features
 
