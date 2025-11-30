@@ -2,8 +2,6 @@
 
 A minimalist and clean Pomodoro timer built with React.
 
-![Project Preview](public/clover.svg)
-
 ## Technologies
 
 - **React** (Vite)
