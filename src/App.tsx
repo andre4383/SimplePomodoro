@@ -26,11 +26,9 @@ function App() {
 function PomodoroControls({
   onStart,
   onReset,
-  isRunning,
 }: {
   onStart: () => void;
   onReset: () => void;
-  isRunning: boolean;
 }) {
   return (
     <div className="flex items-center justify-center gap-3 mt-4">
@@ -97,11 +95,7 @@ function PomodoroTimer() {
       <div className="flex items-center justify-center h-[200px]">
         <div className="text-9xl font-bold">{formatTime(time)}</div>
       </div>
-      <PomodoroControls
-        onStart={handleStart}
-        onReset={handleReset}
-        isRunning={isRunning}
-      />
+      <PomodoroControls onStart={handleStart} onReset={handleReset} />
     </div>
   );
 }
