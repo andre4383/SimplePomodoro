@@ -74,5 +74,5 @@ Ensure you have Node.js or Bun installed on your machine.
 ---
 
 <div align="center">
-  <sub>Built with focus and precision.</sub>
+  <sub>Made with ❤️ by André.</sub>
 </div>
